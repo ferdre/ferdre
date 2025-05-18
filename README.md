@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Cian Morgan
+## 🚀 About Me
 
-<!--
-**ferdre/ferdre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 **Studied:** Adult Nursing (BN) at the University of Liverpool  
+- 💡 **Career Shift:** Passionate about leveraging my healthcare background to build impactful digital solutions  
+- 🖥️ **Learning:** JavaScript, React, Node.js, and modern web technologies  
+- 🤝 **Open to:** Collaborations, mentorship, and new opportunities in technology   
+- 🌱 **Currently:** Building projects, contributing to open source, and expanding my skill set
 
-Here are some ideas to get you started:
+## 📫 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](www.linkedin.com/in/cianmorgan-rn)  
+- [Email]()
